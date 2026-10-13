@@ -1,16 +1,29 @@
-## Hi there 👋
+# Fernando Barbosa
 
-<!--
-**nandevers/nandevers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **applied AI, decision science and technical delivery**.
 
-Here are some ideas to get you started:
+I am a Lead Scientist at FICO. I help customers understand AI technology, clarify requirements and design solutions for credit underwriting and credit limit management. My work includes a pipeline spanning more than 30 financial-institution and fintech customers across 10 products, with three ongoing proofs of value. Customer engagements span Latin America, Australia, India, Malaysia and Europe, including the UK. My experience also spans recommendation systems, optimization and forecasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At IFF, I led two project teams totaling approximately eight people on global BioActives optimization and daily hierarchical forecasting for Cellulosics, with responsibility for infrastructure, architecture and cloud implementation.
+
+International customer work, FICO events and training in Mexico and the United States inform my approach to culturally aware communication and effective collaboration across locations and time zones.
+
+## Selected personal work
+
+- [Credit-agent experiments](https://github.com/nandevers/agent-experiments): notebook prototypes connecting synthetic lending data, SQL agents and a stateful policy-analysis workflow. The README explains the current scope and reproducibility limits.
+- [pySidraData](https://github.com/nandevers/pySidraData): a Python client for exploring IBGE data, metadata and tabular outputs.
+- [Writing](https://fernando-liaison.medium.com/): applied data science, experimentation and technical explanations.
+
+## Topics I work on
+
+- Turning business questions into analytical decision systems.
+- Optimization, credit analytics and hierarchical forecasting.
+- Evidence quality, model evaluation and operational tradeoffs.
+- Architecture and delivery across data science and engineering.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/)
+
+Personal repositories and writing reflect my own views. Research prototypes are labeled and should not be read as employer products or claims of production deployment.
+
