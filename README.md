@@ -23,7 +23,7 @@ International customer work, FICO events and training in Mexico and the United S
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/fernando-barbosa-ds/) · [Medium](https://fernando-liaison.medium.com/) · [Portfolio](https://fernando-barbosa-applied-ai.nandevers.chatgpt.site)
 
 Personal repositories and writing reflect my own views. Research prototypes are labeled and should not be read as employer products or claims of production deployment.
 
